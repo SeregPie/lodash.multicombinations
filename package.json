@@ -1,7 +1,7 @@
 {
 	"name": "lodash.multicombinations",
 	"version": "1.0.0",
-	"description": "Calculates all possible multicombinations of a certain size.",
+	"description": "Calculates all possible combinations with repetition of a certain size.",
 	"keywords": [
 		"array",
 		"collection",

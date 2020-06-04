@@ -2,11 +2,11 @@
 
 `_.multicombinations(collection, n)`
 
-Calculates all possible multicombinations of a certain size.
+Calculates all possible combinations with repetition of a certain size.
 
 | argument | description |
 | ---: | :--- |
-| `collection` | A collection of distinct values to calculate the multicombinations from. |
+| `collection` | A collection of distinct values to calculate the combinations from. |
 | `n` | The number of values to combine. |
 
 Returns a new array.
